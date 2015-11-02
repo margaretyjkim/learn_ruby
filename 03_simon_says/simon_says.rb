@@ -17,3 +17,7 @@ end
 def first_word
 
 end
+
+def titleize
+
+end
