@@ -5,3 +5,7 @@ end
 def shout
 
 end
+
+def repeat
+
+end
