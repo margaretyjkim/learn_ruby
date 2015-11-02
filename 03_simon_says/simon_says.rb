@@ -1,16 +1,20 @@
-def echo
-
+def echo( str )
+	str
 end
 
-def shout
-
+def shout( str )
+	str.upcase
 end
 
-def repeat
-
+def repeat( string, num = 1 )
+	if num >= 3
+		"#{string} #{string} #{string}"
+	else
+		"#{string} #{string}"
+	end
 end
 
-def start_of_word
+def start_of_word ( word, number )
 
 end
 
