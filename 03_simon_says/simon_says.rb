@@ -13,3 +13,7 @@ end
 def start_of_word
 
 end
+
+def first_word
+
+end
