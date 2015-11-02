@@ -9,3 +9,7 @@ end
 def repeat
 
 end
+
+def start_of_word
+
+end
